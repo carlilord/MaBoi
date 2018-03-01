@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{9042ED60-BF3A-4FC0-813A-D113467DE6F2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GoogleHashCode/Problem.cs">
+    <Files>
+      <File FileName="GoogleHashCode/Program.cs" Line="1" Column="1" />
+      <File FileName="GoogleHashCode/Problem.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.GoogleHashCode PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
